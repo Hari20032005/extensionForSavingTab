@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+button{
+    color: white;
+    background:#5f9341;
+    border:1PX solid #5f9341;
+    font-weight: bold;
+    margin-top: 5px;
+}
+#d-el{
+    color:#5f9341;
+    background-color: aliceblue;
+    
+
+}
+input{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
